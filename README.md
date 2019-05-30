@@ -1,2 +1,2 @@
 # Yolopi
-Yolo import for raspberry pi
+Yolo running on raspberry pi
